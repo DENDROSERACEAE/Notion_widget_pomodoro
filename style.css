@@ -40,7 +40,7 @@ button:focus {
   width: 350px;
   border-radius: 20px;
   padding: 30px;
-  box-shadow: 10px 10px rgb(93, 90, 146);
+  box-shadow: 10px 10px rgb(93, 90, 146) insert;
 }
 
 /* Display + Stop/Start/Reset Controls */
