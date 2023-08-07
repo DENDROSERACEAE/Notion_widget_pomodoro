@@ -36,7 +36,7 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: rgb(240, 240, 190); 
+  background-color: rgb(237, 229, 245); 
   width: 350px;
   border-radius: 20px;
   padding: 30px;
@@ -48,10 +48,10 @@ button:focus {
 #time-left {
   font-size: 70px;
   text-align: center;
-  background-color: rgb(150,180,175);
+  background-color: rgb(200, 193, 231);
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 3px 3px rgb(121, 145, 141) inset;
+  box-shadow: 3px 3px rgb(183, 178, 207) inset;
 }
 
 #display-controls {
@@ -66,11 +66,11 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 2px;
-  background-color: rgb(150,180,175);
+  background-color: rgb(200, 193, 231);
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb(121, 145, 141) inset;
+  box-shadow: 3px 3px rgb(183, 178, 207) inset;
 }
 
 #timer-ssr {
@@ -102,7 +102,7 @@ button:focus {
 .session-container {
   text-align: center;
 /*   display: inline-block; */
-  border: 2px solid rgb(156, 144, 188);
+  border: 2px solid rgb(93, 90, 146);
   padding: 10px;
   border-radius: 10px;
   width: 48%;
